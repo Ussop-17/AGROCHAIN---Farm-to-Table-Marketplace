@@ -1,0 +1,7 @@
+{
+  "name": "AgroChain: Farm-to-Table Marketplace",
+  "description": "A comprehensive marketplace connecting farmers directly with buyers and delivery partners, featuring produce management, automated delivery contracts, and AI-powered product descriptions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
