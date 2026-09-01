@@ -101,7 +101,7 @@ The system follows a **3-tier architecture**:
 2. Farmer lists products  
 3. Buyer browses and places an order  
 4. Delivery agent accepts the request  
-5. Order is delivered and status is updated  
+5. Order is delivered, and status is updated  
 
 ---
 
@@ -122,9 +122,7 @@ This project is developed as part of an academic submission and demonstrates the
 ---
 
 ## 📚 References
-
-- Software Engineering – Pressman  
-- Database System Concepts – Korth  
+ 
 - Research papers on Digital Agriculture  
 - FAO & World Bank reports  
 
